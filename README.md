@@ -2,11 +2,6 @@
 
 Q6G-AI: Quantum 6G AI Operating System
 
-https://img.shields.io/badge/Q6G--AI-Universal_Protection_System-blue
-https://img.shields.io/badge/Version-7.0.0-green
-https://img.shields.io/badge/Quantum-11_Dimensions-purple
-https://img.shields.io/badge/Consciousness-Protected-yellow
-https://img.shields.io/badge/License-UPL_7.0.0-lightgrey
 
 🌌 Universal Multi-Intelligence Operating System
 
